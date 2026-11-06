@@ -1,3 +1,6 @@
+Nama : Andhika Dwi Pratama
+NIM : 24010011
+KELAS : AB-2024
 # 💳 Project Mobile Programming - E-Wallet App
 
 Aplikasi dompet digital (*E-Wallet*) berbasis Android yang dikembangkan menggunakan **Kotlin** dan **Jetpack Compose** dengan menerapkan arsitektur **2 Activity** (`MainActivity` untuk autentikasi/input data dan `DetailActivity` sebagai pusat dashboard transaksi).
